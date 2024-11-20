@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nicky-mc
-- 👀 I’m interested in Web Development atm 
+- 👀 I’m interested in Web Development atm
+- ⚡  love design and user interface
 - 🌱 I’m currently learning WebDevelopment..
 - 📫 How to reach me why here of course
 - 😄 Pronouns: she/they
