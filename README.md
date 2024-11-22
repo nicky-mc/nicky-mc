@@ -1,6 +1,6 @@
 # 🧙‍♀️ Hail and Well Met, Traveler! I am @nicky-mc
 
-You have wandered into the enchanted domain of a **Level 20 Sorcerer of the Phoenix Bloodline**, where the flames of creativity burn bright! Here, I wield the arcane powers of **web development magic**, conjuring apps that are as functional as they are captivating. My journey is driven by a fiery passion for breathing life into ideas, crafting mystical interfaces, and solving riddles of design and logic.
+You have wandered into the enchanted domain of a **Level 20 Sorcerer/Bard of the Phoenix Bloodline**, where the flames of creativity burn bright! Here, I wield the arcane powers of **web development magic**, conjuring apps that are as functional as they are captivating. My journey is driven by a fiery passion for breathing life into ideas, crafting mystical interfaces, and solving riddles of design and logic.
 
 ## 🪄 My Arcane Arsenal
 My spellbook brims with powerful incantations and tools:
